@@ -1,8 +1,5 @@
-### Hi there 👋
-
+# Hello there ![mmmmsmall.png](img/mmmmsmall2.png)
 <!--
-**ropapermaker/ropapermaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
