@@ -1,4 +1,6 @@
-# Hello there ![mmmmsmall.png](img/mmmmsmall2.png)
+<!-- # Hello there ![mmmmsmall.png](img/mmmmsmall2.png) -->
+
+# Hello there <img alt="dancecat" width="25" height="25" src="img/dancecat-circle.gif">
 
 <p style="font-size:20px"><img width="25" height="25" src="img/pythonlogo.png">  Currently working on improving my python skills</p>
 
@@ -6,9 +8,6 @@
 
 <p style="font-size:20px"><img width="25" height="25" src="img/linuxpenguin.png">  GNU/Linux > Windows</p>
 
-
-
-<span style="color:blue">
 
 ```python
              /////////////                evo@pop-os 
@@ -33,4 +32,3 @@
              /////////////
 
 ```
-</span>
