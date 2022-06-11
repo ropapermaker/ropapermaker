@@ -8,7 +8,7 @@
 
 <p style="font-size:20px">GNU/Linux > Windows.</p>
 
-```css     
+```python
                 ./o.            evo@end 
               ./ssso-           ------- 
             `:+sssssso/.        OS: EndeavourOS Linux x86_64 
